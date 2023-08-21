@@ -93,6 +93,6 @@ plt.show()
 
 
     
-![png](graph_files/graph_8_0.png)
+![png](assets/graph.png)
     
 
